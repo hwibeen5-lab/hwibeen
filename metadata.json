@@ -1,0 +1,6 @@
+{
+  "name": "국취제 민간위탁 성과평가 시뮬레이터",
+  "description": "국민취업지원제도 민간위탁기관 24개 지점의 실적 모니터링, 표준점수 시뮬레이터 및 성과 평가 분석 보고서 생성 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
